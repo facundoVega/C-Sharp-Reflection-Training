@@ -1,0 +1,12 @@
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\bin\Debug\net6.0\UtilityFunctions.deps.json
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\bin\Debug\net6.0\UtilityFunctions.dll
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\bin\Debug\net6.0\UtilityFunctions.pdb
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\obj\Debug\net6.0\UtilityFunctions.csproj.AssemblyReference.cache
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\obj\Debug\net6.0\UtilityFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\obj\Debug\net6.0\UtilityFunctions.AssemblyInfoInputs.cache
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\obj\Debug\net6.0\UtilityFunctions.AssemblyInfo.cs
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\obj\Debug\net6.0\UtilityFunctions.csproj.CoreCompileInputs.cache
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\obj\Debug\net6.0\UtilityFunctions.dll
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\obj\Debug\net6.0\refint\UtilityFunctions.dll
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\obj\Debug\net6.0\UtilityFunctions.pdb
+C:\Users\facundo.vega\source\repos\TestHarness\UtilityFunctions\obj\Debug\net6.0\ref\UtilityFunctions.dll

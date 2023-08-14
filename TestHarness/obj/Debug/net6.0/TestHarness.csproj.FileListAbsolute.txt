@@ -1,0 +1,15 @@
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\bin\Debug\net6.0\TestHarness.exe
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\bin\Debug\net6.0\TestHarness.deps.json
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\bin\Debug\net6.0\TestHarness.runtimeconfig.json
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\bin\Debug\net6.0\TestHarness.dll
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\bin\Debug\net6.0\TestHarness.pdb
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.csproj.AssemblyReference.cache
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.AssemblyInfoInputs.cache
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.AssemblyInfo.cs
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.dll
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\obj\Debug\net6.0\refint\TestHarness.dll
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.pdb
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.genruntimeconfig.cache
+C:\Users\facundo.vega\source\repos\TestHarness\TestHarness\obj\Debug\net6.0\ref\TestHarness.dll
